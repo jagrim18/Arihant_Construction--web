@@ -179,4 +179,12 @@ export function About() {
                   <value.icon className="h-6 w-6" />
                 </motion.div>
                 <h3 className="text-xl mb-3">{value.title}</h3>
-                <p
+                <p className="text-gray-600 dark:text-gray-400">{value.description}</p>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+}

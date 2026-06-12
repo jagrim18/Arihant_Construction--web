@@ -246,4 +246,13 @@ export function Process() {
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.95 }}
               onClick={() => setEnquiryOpen(true)}
-              cla
+              className="inline-flex items-center gap-2 bg-white hover:bg-gray-100 text-orange-600 dark:text-black dark:bg-white dark:hover:bg-gray-200 px-8 py-4 rounded-lg transition-all shadow-2xl text-lg font-semibold cursor-pointer"
+            >
+              Contact Us Today
+            </motion.button>
+          </motion.div>
+        </div>
+      </section>
+    </div>
+  );
+}

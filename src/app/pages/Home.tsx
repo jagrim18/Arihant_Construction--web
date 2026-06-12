@@ -289,4 +289,16 @@ export function Home() {
               Let's discuss how we can build your dream home or hostel in Kota
             </p>
             <motion.button
-              whileHover={{ scale: 1
+              whileHover={{ scale: 1.05, y: -2 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={() => setEnquiryOpen(true)}
+              className="inline-flex items-center gap-2 bg-white hover:bg-gray-100 text-orange-600 dark:text-black dark:bg-white dark:hover:bg-gray-200 px-8 py-4 rounded-lg transition-all shadow-2xl text-lg font-semibold cursor-pointer"
+            >
+              Enquire Now <ArrowRight className="h-5 w-5" />
+            </motion.button>
+          </motion.div>
+        </div>
+      </section>
+    </div>
+  );
+}
