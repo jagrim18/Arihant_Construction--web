@@ -3,10 +3,7 @@ import proj2 from '../../assets/WhatsApp Image 2026-03-23 at 8.56.38 PM (1).jpeg
 import proj3 from '../../assets/WhatsApp Image 2026-03-23 at 8.56.39 PM.jpeg';
 import proj4 from '../../assets/WhatsApp Image 2026-03-23 at 8.57.22 PM.jpeg';
 import proj5 from '../../assets/WhatsApp Image 2026-03-23 at 9.11.01 PM.jpeg';
-import proj6 from '../../assets/WhatsApp Image 2026-03-23 at 9.14.40 PM.jpeg';
 import proj7 from '../../assets/WhatsApp Image 2026-03-23 at 9.15.34 PM.jpeg';
-import proj8 from '../../assets/WhatsApp Image 2026-03-23 at 9.16.17 PM.jpeg';
-import proj9 from '../../assets/WhatsApp Image 2026-03-23 at 9.18.03 PM.jpeg';
 import proj10 from '../../assets/WhatsApp Image 2026-03-23 at 9.18.04 PM.jpeg';
 import proj11 from '../../assets/WhatsApp Image 2026-03-23 at 9.18.45 PM.jpeg';
 import proj12 from '../../assets/WhatsApp Image 2026-03-23 at 9.21.20 PM.jpeg';
@@ -82,15 +79,6 @@ export const projects: Project[] = [
   },
   {
     id: 7,
-    title: 'Modern Residential Suite',
-    category: 'home',
-    location: 'Kunhari, Kota',
-    year: '2025',
-    image: proj6,
-    description: 'Elegant architectural design featuring spacious living areas and high-end finishes.',
-  },
-  {
-    id: 8,
     title: 'Coaching Zone Hostel',
     category: 'hostel',
     location: 'Indra Vihar, Kota',
@@ -99,25 +87,7 @@ export const projects: Project[] = [
     description: 'Fully furnished student residency located close to major coaching institutes.',
   },
   {
-    id: 9,
-    title: 'Comfort Residency',
-    category: 'home',
-    location: 'Dadabari, Kota',
-    year: '2025',
-    image: proj8,
-    description: 'A beautiful collection of family homes designed for modern comfort.',
-  },
-  {
-    id: 10,
-    title: 'Elite Student House',
-    category: 'hostel',
-    location: 'Talwandi, Kota',
-    year: '2024',
-    image: proj9,
-    description: 'Premium amenities and study-focused environment for student success.',
-  },
-  {
-    id: 11,
+    id: 8,
     title: 'Contemporary Apartments',
     category: 'home',
     location: 'Vigyan Nagar, Kota',
@@ -126,7 +96,7 @@ export const projects: Project[] = [
     description: 'Architecturally advanced apartments featuring eco-friendly construction.',
   },
   {
-    id: 12,
+    id: 9,
     title: 'Classic Girls Hostel',
     category: 'hostel',
     location: 'Commerce College Road, Kota',
@@ -135,7 +105,7 @@ export const projects: Project[] = [
     description: 'Highly secure, fully-managed female hostel with modern mess facility.',
   },
   {
-    id: 13,
+    id: 10,
     title: 'Sleek Villa Project',
     category: 'home',
     location: 'Dadabari, Kota',
@@ -144,7 +114,7 @@ export const projects: Project[] = [
     description: 'Modern luxury villas built with sustainable and high-durability materials.',
   },
   {
-    id: 14,
+    id: 11,
     title: 'Scholars Elite Hostel',
     category: 'hostel',
     location: 'Indra Vihar, Kota',
@@ -153,7 +123,7 @@ export const projects: Project[] = [
     description: 'State-of-the-art facility featuring premium recreation and study lounges.',
   },
   {
-    id: 15,
+    id: 12,
     title: 'Green Valley Homes',
     category: 'home',
     location: 'Kunhari, Kota',
@@ -162,7 +132,7 @@ export const projects: Project[] = [
     description: 'Premium housing community integrated with lush green landscaping.',
   },
   {
-    id: 16,
+    id: 13,
     title: 'Academics Hostel',
     category: 'hostel',
     location: 'Talwandi, Kota',
