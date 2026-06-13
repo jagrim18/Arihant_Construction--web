@@ -28,7 +28,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    title: 'Premium Residential Complex',
+    title: 'Indra Vihar',
     category: 'home',
     location: 'Kunhari, Kota',
     year: '2025',
