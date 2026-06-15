@@ -1,4 +1,4 @@
-# 🧪 Testing Guide - Arihant Builders Website
+# 🧪 Testing Guide - Arihant Builders & Construction Website
 
 ## ✅ Complete Functionality Checklist
 
@@ -7,7 +7,7 @@
 ## 1. Contact Information Display
 
 ### Test: Navigation & Footer
-- [ ] Website shows "Arihant Builders" in logo
+- [ ] Website shows "Arihant Builders & Construction" in logo
 - [ ] Phone number displays in footer: `+91 98765 43210`
 - [ ] Email displays in footer: `info@arihantbuilders.com`
 - [ ] Location shows "Kota, Rajasthan, India"
@@ -195,7 +195,7 @@
 ### Expected Message Content:
 
 ```
-New Project Enquiry - Arihant Builders
+New Project Enquiry - Arihant Builders & Construction
 
 Name: [Customer Name]
 Email: [Customer Email]

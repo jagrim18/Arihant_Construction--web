@@ -233,7 +233,7 @@ export function Home() {
             transition={{ duration: 0.6 }}
             className="text-center mb-16"
           >
-            <h2 className="text-4xl md:text-5xl mb-4">Why Choose Arihant Builders?</h2>
+            <h2 className="text-4xl md:text-5xl mb-4">Why Choose Arihant Builders & Construction?</h2>
             <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
               We combine expertise, quality, and innovation to deliver exceptional construction services
             </p>

@@ -47,7 +47,7 @@ export function About() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="max-w-3xl"
           >
-            <h1 className="text-5xl mb-6">About Arihant Builders</h1>
+            <h1 className="text-5xl mb-6">About Arihant Builders & Construction</h1>
             <p className="text-xl text-gray-300">
               With over 20 years of experience in Kota, Rajasthan, we've built a reputation for delivering exceptional homes and hostels on time and within budget.
             </p>
@@ -68,7 +68,7 @@ export function About() {
               <h2 className="text-4xl mb-6">Our Story</h2>
               <div className="space-y-4 text-gray-600 dark:text-gray-400 text-lg">
                 <p>
-                  Arihant Builders was founded in 2005 in Kota, Rajasthan with a simple mission: to deliver high-quality residential homes and hostel facilities with integrity and professionalism. What started as a small team has grown into the region's most trusted construction company.
+                  Arihant Builders & Construction was founded in 2005 in Kota, Rajasthan with a simple mission: to deliver high-quality residential homes and hostel facilities with integrity and professionalism. What started as a small team has grown into the region's most trusted construction company.
                 </p>
                 <p>
                   Over the years, we've completed over 250 projects including beautiful homes and student hostels across Kota. Our success is built on strong relationships with our clients, attention to detail, and an unwavering commitment to quality.
@@ -131,13 +131,13 @@ export function About() {
               <p className="text-lg text-gray-500 dark:text-gray-400 mb-6">Founder & CEO</p>
               <div className="space-y-4 text-gray-600 dark:text-gray-400">
                 <p>
-                  Kushal Chand Jain founded Arihant Builders with a vision to provide quality housing solutions in Kota. With over 25 years of experience in construction, Rajesh has overseen hundreds of successful projects across the city.
+                  Kushal Chand Jain founded Arihant Builders & Construction with a vision to provide quality housing solutions in Kota. With over 25 years of experience in construction, Rajesh has overseen hundreds of successful projects across the city.
                 </p>
                 <p>
-                  A licensed civil engineer and contractor, Rajesh's expertise spans residential homes and hostel construction. His deep understanding of Kota's education sector needs has made Arihant Builders the preferred choice for student hostel construction.
+                  A licensed civil engineer and contractor, Rajesh's expertise spans residential homes and hostel construction. His deep understanding of Kota's education sector needs has made Arihant Builders & Construction the preferred choice for student hostel construction.
                 </p>
                 <p>
-                  Under Rajesh's leadership, Arihant Builders has become synonymous with quality, reliability, and trust in Kota. When he's not on-site, Rajesh enjoys mentoring young engineers and contributing to the community's development.
+                  Under Rajesh's leadership, Arihant Builders & Construction has become synonymous with quality, reliability, and trust in Kota. When he's not on-site, Rajesh enjoys mentoring young engineers and contributing to the community's development.
                 </p>
               </div>
             </motion.div>

@@ -1,5 +1,5 @@
 /**
- * ARIHANT BUILDERS - CONTACT CONFIGURATION
+ * Arihant Builders & Construction - CONTACT CONFIGURATION
  * 
  * Update these details to receive enquiries on your email and WhatsApp
  */

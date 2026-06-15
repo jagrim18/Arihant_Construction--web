@@ -41,9 +41,9 @@ export function Layout() {
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.3 }}
               >
-                <img src={logoImage} alt="Arihant Builders" className="h-12 w-auto object-contain" />
+                <img src={logoImage} alt="Arihant Builders & Construction" className="h-12 w-auto object-contain" />
               </motion.div>
-              <span className="text-xl font-semibold text-foreground">Arihant Builders</span>
+              <span className="text-xl font-semibold text-foreground">Arihant Builders & Construction</span>
             </Link>
 
             {/* Desktop Navigation */}
@@ -134,11 +134,11 @@ export function Layout() {
               <div className="flex items-center gap-3 mb-4">
                 <img 
                   src={logoImage} 
-                  alt="Arihant Builders" 
+                  alt="Arihant Builders & Construction" 
                   className="h-10 w-auto object-contain"
                   style={{ filter: 'brightness(0) invert(1)' }}
                 />
-                <span className="text-lg font-semibold">Arihant Builders</span>
+                <span className="text-lg font-semibold">Arihant Builders & Construction</span>
               </div>
               <p className="text-gray-400">
                 Building quality homes and hostels in Kota, Rajasthan since 2005. Your trusted construction partner.
@@ -167,7 +167,7 @@ export function Layout() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2026 Arihant Builders. All rights reserved.</p>
+            <p>&copy; 2026 Arihant Builders & Construction. All rights reserved.</p>
           </div>
         </div>
       </footer>

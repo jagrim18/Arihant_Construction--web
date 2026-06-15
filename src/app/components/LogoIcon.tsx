@@ -1,4 +1,4 @@
-// Custom Logo Icon Component for Arihant Builders
+// Custom Logo Icon Component for Arihant Builders & Construction
 export function LogoIcon({ className = "h-10 w-10" }: { className?: string }) {
   return (
     <svg 

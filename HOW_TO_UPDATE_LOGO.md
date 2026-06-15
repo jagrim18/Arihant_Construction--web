@@ -43,7 +43,7 @@ Your logo is now a **clean SVG building icon** with **NO BACKGROUND** - just the
    // NEW:
    <img 
      src={logoImage} 
-     alt="Arihant Builders Logo" 
+     alt="Arihant Builders & Construction Logo" 
      className="h-10 w-auto object-contain"
    />
    ```
@@ -57,7 +57,7 @@ Your logo is now a **clean SVG building icon** with **NO BACKGROUND** - just the
    // NEW:
    <img 
      src={logoImage} 
-     alt="Arihant Builders Logo" 
+     alt="Arihant Builders & Construction Logo" 
      className="h-8 w-auto object-contain brightness-0 invert"
    />
    ```
@@ -109,12 +109,12 @@ Edit `/src/app/components/Layout.tsx`:
 ```tsx
 // Navigation - around line 38
 <Link to="/" className="flex items-center gap-3">
-  <span className="text-2xl font-bold text-orange-600">Arihant Builders</span>
+  <span className="text-2xl font-bold text-orange-600">Arihant Builders & Construction</span>
 </Link>
 
 // Footer - around line 138
 <div className="flex items-center gap-3 mb-4">
-  <span className="text-xl font-bold">Arihant Builders</span>
+  <span className="text-xl font-bold">Arihant Builders & Construction</span>
 </div>
 ```
 

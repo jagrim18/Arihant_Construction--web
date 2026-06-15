@@ -26,7 +26,7 @@ export function ProjectDetail() {
   }
 
   // Pre-filled WhatsApp message format
-  const whatsappMsg = `Hello Arihant Builders, I am interested in your project: "${project.title}" (${project.category === 'home' ? 'Home' : 'Hostel'}) located in ${project.location}. Can you please share more details?`;
+  const whatsappMsg = `Hello Arihant Builders & Construction, I am interested in your project: "${project.title}" (${project.category === 'home' ? 'Home' : 'Hostel'}) located in ${project.location}. Can you please share more details?`;
   const whatsappUrl = `https://wa.me/${CONTACT_CONFIG.whatsappNumber}?text=${encodeURIComponent(whatsappMsg)}`;
 
   // Category specific highlights

@@ -1,4 +1,4 @@
-# 🏗️ Arihant Builders - Logo Information
+# 🏗️ Arihant Builders & Construction - Logo Information
 
 ## ✅ Clean Logo Implementation - NO BACKGROUND
 
