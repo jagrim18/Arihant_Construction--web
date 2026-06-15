@@ -54,7 +54,7 @@ export const CONTACT_CONFIG = {
   // 4. Your EXACT Location (Get from Google Maps)
   businessLocation: {
     address: 'Kota, Rajasthan, India',
-    coordinates: '25.1773,75.8346',  // YOUR COORDINATES HERE
+    coordinates: '25.1431564,75.8456484',  // YOUR COORDINATES HERE
   },
 };
 ```
@@ -71,7 +71,7 @@ export const CONTACT_CONFIG = {
 4. **Paste** into the `coordinates:` field
 
 ### Example Coordinates for Kota:
-- Kota City: `25.1773,75.8346`
+- Kota City: `25.1431564,75.8456484`
 - Commerce College Road: `25.1420,75.8350`
 - Dadabari: `25.1950,75.8600`
 
@@ -111,7 +111,7 @@ export const CONTACT_CONFIG = {
 - ✅ Correct: `919876543210`
 
 ### Coordinates Format:
-- ✅ Correct: `25.1773,75.8346`
+- ✅ Correct: `25.1431564,75.8456484`
 - ❌ Wrong: `25.1773, 75.8346` (space after comma)
 
 ---
@@ -151,7 +151,7 @@ Your contact details automatically update in:
 ```
 Email: info@arihantbuilders.com
 WhatsApp: +91 98765 43210
-Location: Kota City Center (25.1773,75.8346)
+Location: Kota City Center (25.1431564,75.8456484)
 ```
 
 **👉 Replace with YOUR actual details in `/src/app/config/contact.ts`**

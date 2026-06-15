@@ -270,7 +270,7 @@ Test on different browsers:
 ### Map Not Opening?
 
 **Problem:** Coordinates have spaces
-**Fix:** Remove spaces: `25.1773,75.8346` (no space after comma)
+**Fix:** Remove spaces: `25.1431564,75.8456484` (no space after comma)
 
 **Problem:** Wrong coordinates
 **Fix:** Get from Google Maps - right-click location → click coordinates

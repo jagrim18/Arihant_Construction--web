@@ -53,11 +53,11 @@ whatsappNumber: '919876543210',  // Replace with your WhatsApp number
 5. Paste in the config file:
 
 ```typescript
-coordinates: '25.1773,75.8346',  // Paste your coordinates here
+coordinates: '25.1431564,75.8456484',  // Paste your coordinates here
 ```
 
 **📍 Example Coordinates for Kota Areas:**
-- Kota City Center: `25.1773,75.8346`
+- Kota City Center: `25.1431564,75.8456484`
 - Commerce College Road: `25.1420,75.8350`
 - Dadabari: `25.1950,75.8600`
 - Talwandi: `25.1340,75.8540`

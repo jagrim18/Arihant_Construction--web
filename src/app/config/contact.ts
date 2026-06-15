@@ -24,8 +24,8 @@ export const CONTACT_CONFIG = {
     // STEP 1: Go to Google Maps and find your business location
     // STEP 2: Right-click on your exact location and click the coordinates (they will copy)
     // STEP 3: Paste them here in format: 'latitude,longitude'
-    // Example: '25.1773,75.8346' (for Kota city center)
-    coordinates: '25.1773,75.8346',
+    // Example: '25.1431564,75.8456484' (for Kota city center)
+    coordinates: '25.1431564,75.8456484',
     
     // Alternative: If you don't have coordinates, you can use full address
     // Leave coordinates empty ('') and it will use the address below
@@ -58,7 +58,7 @@ export const CONTACT_CONFIG = {
  *    Step 5: Paste here in coordinates field
  *    
  *    Example coordinates for Kota locations:
- *    - Kota City Center: '25.1773,75.8346'
+ *    - Kota City Center: '25.1431564,75.8456484'
  *    - Commerce College Road: '25.1420,75.8350'
  *    - Dadabari: '25.1950,75.8600'
  *    - Talwandi: '25.1340,75.8540'
